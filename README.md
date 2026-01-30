@@ -37,21 +37,19 @@ Telegram-бот для управления дедлайнами с умными
 - ConversationHandler
 - JobQueue
 
-## Лицензия<img width="440" height="193" alt="image" src="https://github.com/user-attachments/assets/2a14b9d7-c078-4d9a-b159-a436416fd449" />
+## Лицензия
 
 MIT
 
 ## Скриншоты
 
 ### Главное меню
-![Главное меню](screenshots/menu.png)
+<img width="1452" height="99" alt="image" src="https://github.com/user-attachments/assets/205a3673-85ed-4807-a1dd-d5f957b2a1a3" />
+
 
 ### Добавление дедлайна с календарём
-![Календарь](screenshots/calendar.png)
+<img width="435" height="343" alt="image" src="https://github.com/user-attachments/assets/df84a32e-6f4f-4382-b430-5dd022e088cc" />
+
 
 ### Список дедлайнов
 <img width="440" height="193" alt="image" src="https://github.com/user-attachments/assets/4bea3019-de73-493b-b50d-6155684371f4" />
-
-
-### Ежедневное напоминание
-![Напоминание](screenshots/reminder.png)
