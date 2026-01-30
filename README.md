@@ -1,4 +1,4 @@
-#  Deadline Tracker Bot
+<img width="440" height="193" alt="image" src="https://github.com/user-attachments/assets/8a8dd3d0-87d6-47f5-bec8-7d749cfcd70b" />#  Deadline Tracker Bot
 
 Telegram-бот для управления дедлайнами с умными напоминаниями и повторяющимися задачами.
 
@@ -37,7 +37,8 @@ Telegram-бот для управления дедлайнами с умными
 - ConversationHandler
 - JobQueue
 
-## Лицензия
+## Лицензия<img width="440" height="193" alt="image" src="https://github.com/user-attachments/assets/2a14b9d7-c078-4d9a-b159-a436416fd449" />
+
 MIT
 
 ## Скриншоты
@@ -49,7 +50,8 @@ MIT
 ![Календарь](screenshots/calendar.png)
 
 ### Список дедлайнов
-![Список](screenshots/list.png)
+<img width="440" height="193" alt="image" src="https://github.com/user-attachments/assets/4bea3019-de73-493b-b50d-6155684371f4" />
+
 
 ### Ежедневное напоминание
 ![Напоминание](screenshots/reminder.png)
