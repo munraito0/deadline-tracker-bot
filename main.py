@@ -28,7 +28,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "8525186985:AAEAMZI158ay3EVBoi98N84Fv5hy2OlpgOI"
+TOKEN = "YOUR_BOT_TOKEN"
 
 DB_PATH = Path(__file__).resolve().parent / "deadlines.db"
 
