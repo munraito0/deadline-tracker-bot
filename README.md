@@ -1,4 +1,4 @@
-<img width="440" height="193" alt="image" src="https://github.com/user-attachments/assets/8a8dd3d0-87d6-47f5-bec8-7d749cfcd70b" />#  Deadline Tracker Bot
+#  Deadline Tracker Bot
 
 Telegram-бот для управления дедлайнами с умными напоминаниями и повторяющимися задачами.
 
