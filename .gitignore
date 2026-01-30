@@ -1,0 +1,19 @@
+# Environment
+.env
+*.env
+
+# Database
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# IDE (PyCharm)
+.idea/
